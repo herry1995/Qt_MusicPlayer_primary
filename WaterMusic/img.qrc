@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>Icons/Next.png</file>
+        <file>Icons/NoVolume.png</file>
+        <file>Icons/Pause.png</file>
+        <file>Icons/Play.png</file>
+        <file>Icons/Previous.png</file>
+        <file>Icons/Volume.png</file>
+        <file>Icons/Music.ico</file>
+        <file>Icons/folder.png</file>
+        <file>Icons/min.png</file>
+        <file>Icons/Expand.png</file>
+        <file>Icons/close.png</file>
+    </qresource>
+    <qresource prefix="/BackGroundPixMap">
+        <file>image/background.jpg</file>
+    </qresource>
+</RCC>
